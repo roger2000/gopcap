@@ -13,5 +13,5 @@ pcaptest: pcaptest.go install
 	$(LD) -o $@ pcaptest.$(O)
 
 tcpdump: tcpdump.go install
-	$(GC) tcpdump.go 
+	$(GC) tcpdump.go
 	$(LD) -o $@ tcpdump.$(O)
