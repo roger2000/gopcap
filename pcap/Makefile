@@ -1,6 +1,6 @@
 include $(GOROOT)/src/Make.inc
 
-TARG=gopcap.googlecode.com/hg/gopcap
+TARG=gopcap.googlecode.com/hg/pcap
 GOFILES=decode.go
 CGOFILES=pcap.go
 CGO_LDFLAGS=-lpcap

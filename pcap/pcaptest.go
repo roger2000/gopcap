@@ -1,7 +1,7 @@
 package main
 
 import (
-	"pcap"
+	"gopcap.googlecode.com/hg/pcap"
 	"fmt"
 	"flag"
 	"time"
