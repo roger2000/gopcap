@@ -1,0 +1,5 @@
+[paths]
+default = http://bitbucket.org/sungo/gopcap
+default-push = ssh://hg@bitbucket.org/sungo/gopcap
+[ui]
+username=sungo
